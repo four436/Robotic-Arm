@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681406334 source:e:\ziua portilor deschise\pitra-foarfeca-hartie\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+
